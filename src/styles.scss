@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+$theme-colors: (
+    "success": #dc3546,
+    "info": #ffc107,
+    "warning": #20c997,
+    "danger": #0dcaf0
+);
+
+@import "~bootstrap";
